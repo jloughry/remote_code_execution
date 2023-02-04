@@ -1,0 +1,9 @@
+.DS_Store
+graphics/.DS_Store
+
+*.json
+*.log
+*.asc
+*.bin
+*.swp
+fpga4student/
